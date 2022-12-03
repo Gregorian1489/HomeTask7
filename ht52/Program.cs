@@ -20,6 +20,7 @@ for(int i = 0;i<line;i++)
 Console.WriteLine();
 
 Console.Write("Среднее арифметическое каждого столбца: ");
+
 for(int j = 0;j<col;j++)
 {
     for(int i = 0; i<line;i++)
